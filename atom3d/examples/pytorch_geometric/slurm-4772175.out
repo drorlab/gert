@@ -1,0 +1,18 @@
+
+The following have been reloaded with a version change:
+  1) py-protobuf/3.6.1_py27 => py-protobuf/3.4.0_py36
+
+
+The following have been reloaded with a version change:
+  1) py-numpy/1.14.3_py36 => py-numpy/1.17.2_py36
+
+
+The following have been reloaded with a version change:
+  1) py-numpy/1.17.2_py36 => py-numpy/1.14.3_py27
+  2) py-protobuf/3.4.0_py36 => py-protobuf/3.6.1_py27
+  3) python/3.6.1 => python/2.7.13
+
+-------------------------------------------------------------------------------
+The following dependent module(s) are not currently loaded: py-numpy/1.14.3_py27 (required by: py-tensorboardx/1.8_py27), py-numpy/1.14.3_py36 (required by: py-tensorflow/1.9.0_py36), python/2.7 (required by: py-protobuf/3.6.1_py27)
+-------------------------------------------------------------------------------
+/var/spool/slurmd/job4772175/slurm_script: line 12: train_qm9.py: command not found

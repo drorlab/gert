@@ -1,0 +1,15 @@
+# directories
+__pycache__
+build
+dist
+.vscode
+notebook
+
+*.egg-info
+
+
+# files
+mutex
+
+*.png
+*.gif
